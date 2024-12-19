@@ -1,0 +1,120 @@
+Reycaarto Geomaatics Private Limited
+
+Reycaarto Geomaatics was established in early 2008. It is laden with a good wealth of Management talent and experience in its Executive Management. A committed Management team anchors the Organization effectively to its goal of providing high quality to its clients.
+
+Reycaarto Geomaatics believes in being successful only by making our esteemed clients successful. Also we believe in long term relation, therefore we associate with our clients as technical partner instead of a service provider/vendor. Hence AAMGST is highly Client centric Organization, in terms of quality, flexible in dealing with Large and Small projects, and committed for timely delivery. As our operations are based in tier 3 city, our prices are relatively competitive and we are very much flexible to fit into our client's budget price.
+
+
+about us:
+Reycaarto has been invincible in providing high quality geospatial solutions with latest technologies at unmatched reliability and client satisfaction across the globe. Since its inception, we have been instrumental in spearheading the company from a  single client to multiple (from Italy, France, Japan, Spain, Portugal, Brazil and the USA). We have been successful in providing our clients with effective services. An ability to always look beyond has contributed to the firm’s ability to grow despite a challenging economy – a fact that allows our clients to be comfortable in working with our talented professionals and a stable Organisation. This commitment has constantly fuelled the journey, encouraging us to think differently, work with passion and make things happen.
+values:
+1.Instilled with deep rooted values, we endeavour the passion to work and commit ourselves relentlessly to scale the heights of excellence in all pursuits.
+2.In the journey towards excellence we are highly privileged to have maintained the balance between work and off work which boosts the efficiency of our services close to perfection.
+3.We preserve great respect and responsibility towards our customers in marketplace and strive for clear connection with them.
+4.We pursue tremendous potential for technical innovations henceforth aspire for new markets to increase value for our customers and in accepting challenging opportunities for our company.
+5.Founded by tech-savvy individual,Reycaarto has always been updated with the technological progress in respective fields and embraces appropriate technology to provide its best services.
+6.We choose an innovative approach in manufacturing, infrastructure and in delivering the services and providing support.
+background:
+The members of Reycaarto were previously heading Production, Operations and Business Development core contingent at the global market. Building on an extensive heritage of experience, knowledge and client management for the Photogrammetry/LIDAR imaging industry, the founder now embark on a new, boundary expanding own venture.
+Reycaarto has been providing the services to following fileds.
+
+Agriculture, Business/Marketing, Cadastral, Cartography, Defense, Internal Security, Electric, Emergency, Environmental Engineering, Environmental Planning, Forestry, Land Use, Gas, Oil, Mineral Exploration, Oceanography, Meteorology, Photogrammetry, Survey, Pipeline, R&D, Educational, Telecommunications, Transportation, Water Resources, etc.
+
+
+Services:
+Aerial Triangulation:
+Reycaarto is capable of doing Aerial Triangulation of both Aerial and Satellite imageries by using Automatic tie point extraction and manual measurement of Ground Control Points and additional tie points to produce accurate and reliable AT results. The AT results are presented in a standard document report file as per the client’s requirement to show the reliability of input data and accuracy statistics of the final results.
+
+
+
+3d cartography:
+  <p><strong>AAM GST</strong> personnel are well acquitted with the mapping standards (ASPRS, NMAS, and NSSDA). Our dedicated team has been involved in delivering the client’s expected quality with on time delivery. <br>
+<br>
+
+<strong>AAM GST</strong> has been produced planimetric data for Europe, US, Middle East and Latin American countries with different projections (UTM wgs84, Sardinia local coordinate system, State plane coordinate system). <br>
+<br>
+
+<strong class="head">Large Scale mapping _ Aerial :</strong>
+We have delivered 20000 hectors of large scale cartographic data with 1:500 scale for Lugo area in Spain and 1:1000 scale for Italia. The purpose of the project is to monitor the changes / obstacles around the airport and its surrounding area. <br>
+<br>
+
+
+<strong class="head">Medium scale mapping _ Arial and ADS40 :</strong>
+We delivered 75000 hectors of Urban Planimetric data to our clients by using our own automation
+methods in photogrammetric discipline. <br>
+<br>
+
+
+<strong class="head">Small scale mapping _Aerial and Satellite :</strong>
+we have mapped 4.5 millon hectors (1:5000) with Cartographic data from Satellite stereo pairs (GeoEye stereo, World View) and Aerial imagery. The purpose of the project is to monitor forest inventory for Brazil oil company.</p>
+
+
+
+
+
+dem-dtm:
+ <p><strong>AAM GST</strong> is capable of producing wide array of high resolution Digital Terrain Models. Our strong technical  team can able to produce accurate data with cost-efficient methods.  AAM GST staff is expertise in positioning the break lines at required place and our team skills have been upgraded as per the latest available technologies. We follow in-house developed quality check programmes and procedures to exceed the client requirement. Our photogrammetric team members are experts in manual contours. Final DTM data has been submitted in different formats like ASCII, TIN, ESRI ASCII grid and GeoTiff, Img.</p> 
+	
+	<p><strong>AAM GST</strong> has delivered Digital terrain models for multi-  purpose including initial mine designs and tailing layouts and Monitoring of oilfields and earth morphological changes.</p>
+
+
+
+orthophoto-mosaic:
+  <p>In order to keep pace with ongoing competition, <strong>AAM GST</strong> is constantly innovating to find newer solutions, technologies and methodologies that can help our clients to ensure higher quality.</p>
+			
+<p><strong>AAM GST</strong> has delivered orthophotos from aerial frames(30000) and 1.5 million Sqkm from satellite data.  Orthophotos with high accuracy and radiometrically enhanced from different sensors (aerial frame, digital camera, ADS40 and satellite) with various GSDs (0.08, 0.1, 0.25, 0.5 and 1.0 meters).</p>
+
+<p>By following all the standards of FGDC, we have generated orthophotos (from multiband images) by adopting the best practices in production and quality checking. </p>
+<p>Final output has been delivered as per clients required projections and formats.</p>
+
+
+
+
+
+
+
+
+lidar classification:
+  <p><strong>AAM GST</strong> has strong comprehensive hold on LiDAR processing of Airborne, Terrestrail and Mobile data.  LiDAR data has been classified and vectorized from various Scanners(Leica, RIEGLand Optech) for different applications.</p>
+			 
+<p>We have delivered one million hectors with high quality and reliable data to our Poland and US clients. We have technically exceptional and challenging LiDAR  technicians to meet project deadlines. Our quality-driven LiDAR processing methodologies assures you high quality and fast turnaround.
+</p> 
+
+<p><b class="head">Airborne LiDAR_Ciassification</b> <br>
+ Airborne LiDAR data for urban area with point density 20 has been classified in to their respective classes. Final output of  DTM and DSM were generated and submitted to client in ESRI grid format.
+</p> 
+<p><b class="head">Terrestrial LiDAR</b> <br>
+3D Topographic Mapping from Riegl VZ 400 scanner, Automatic classification carried out to classify different features as per the specification like buildings, trees, utilities and further classified manually.
+</p> 
+<p><b class="head">Mobile LiDAR</b> <br>
+Powerline Corridor Mapping from Electrical utilities have been vectorized poles, pole - features, Guy wires, power line, and Secondary line were manually classified in to their respective classes.
+
+</p> 
+	
+
+
+
+gis services/remote sensing:
+
+  <p><strong>AAM GST</strong> has delivered 1.6 million hectors of 2D cartography to Europe, US and Australian clients. Our dedicated team has executed large scale (1:1000), medium scale (1:2000) and small scale (1:5000, 1:10000,30000) mapping for different geospatial applications.</p>
+			 
+<p>We provide comprehensive spatial engineering solutions with experienced GIS engineers. We are specialized in understanding our client’s requirements for providing better solutions on time. AAM GST has been providing the services for land use planning, airport service area analysis, site selection, and airspace obstruction analysis.
+</p> 
+
+<p><b class="head">Geological maps</b> <br>
+ <strong>AAM GST</strong> personnel have expertise in high quality geological map production and addition of attribute data from hard copy of topographic maps. We have capability in GIS, spatial data analysis  and cartography for geology, land use, land cover, urban, forestry for various scales.
+</p> 
+
+
+
+
+
+
+Orthophoto-Mosaic:
+"AAM GST delivers high-accuracy orthophotos from aerial and satellite imagery, ensuring enhanced radiometric quality and compliance with industry standards."
+
+LiDAR Classification:
+"AAM GST provides expert LiDAR classification and vectorization for airborne, terrestrial, and mobile data, ensuring high-quality and reliable results for various applications."
+
+GIS Services/Remote Sensing:
+"AAM GST offers comprehensive GIS and remote sensing solutions, delivering large-scale cartographic data and spatial analysis for diverse geospatial applications."

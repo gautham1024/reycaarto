@@ -1,0 +1,304 @@
+Triangulation of Aerial and Satellite:
+ <p>We are herewith describing the Triangulation (aerial/satellite) projects which have been executed recently. We have successfully completed many triangulation projects of different scales (1:500, 1:1000, 1:2000, 1:5000, 1:10000) from various sensors like Aerial Frame & Digital, ADS40 and Satellite sensors. We have produced multi-scale maps for various purposes and with content from different countries and communities. These sample triangulation project shows our (<strong>AAMGST</strong>) capabilities in Triangulation. Please find the details of sample projects as mentioned below.<br>
+<br>
+
+<strong>AAMGST</strong> has qualified and experienced staff to carry out triangulation. Fast and accurate solution provider in digital aerial triangulation and with latest technology and in automated methods. <strong>AAMGST</strong> provides the best technology services and solutions to geospatial industry. Our staff experts in GNSS/IMU and Latest sensors (Airborne Digital Sensors like ADS 40) supported triangulation. Also having the capacity to handle huge blocks.<br>
+<br>
+
+<strong>AAMGST</strong> utilizes a highly automated aero triangulation approach that minimizes operator intervention and promotes high quality. <strong>AAMGST</strong>’s methodology combines point selection, point measurement, point transfer and efficient block adjustment in a single process. <strong>AAMGST</strong> can take on any job, irrespective of size and complexity. Our staffs are expertise in doing aerial triangulation of Corridor mapping, Vegetation areas and Snow areas.<br>
+<br>
+
+
+
+Project 1: 
+AT for Large,edium and Small Scale Mapping 
+<tr>
+    <td align="left" valign="middle" width="43%">No of Photo frames</td>
+    <td align="left" valign="middle">:</td>
+    <td align="left" valign="middle">6527</td>
+  </tr>
+  <tr>
+    <td align="left" valign="middle">Scale	5000</td>
+    <td align="left" valign="middle">:</td>
+    <td align="left" valign="middle">2239</td>
+  </tr>
+  <tr>
+    <td align="left" valign="middle">Scale	2000</td>
+    <td align="left" valign="middle">:</td>
+    <td align="left" valign="middle">4176</td>
+  </tr>
+  <tr>
+    <td align="left" valign="middle">Scale	1000</td>
+    <td align="left" valign="middle">:</td>
+    <td align="left" valign="middle">112</td>
+  </tr>
+  <tr>
+    <td align="left" valign="middle">Sensor</td>
+    <td align="left" valign="middle">:</td>
+    <td align="left" valign="middle">AirBrone</td>
+  </tr>
+  <tr>
+    <td align="left" valign="middle">Camera</td>
+    <td align="left" valign="middle">:</td>
+    <td align="left" valign="middle">UltracamXP</td>
+  </tr>
+</table>
+
+Project description :</strong> This project includes three scales for same area and which involves triangulation detailed mapping and orthophoto generation. Firstly triangulation of three sets of imagery and then DTM compilation for 1:5000 scale mapping and Detailed mapping from 1:2000 scales.  The images of three scale of photography have been triangulated by using our software, ground controls and GPS/INS.
+Automatic tie point extraction method has been used after measuring the ground control points and with the help of GPS/INS. Our AT experts were successful in achieving the excellent results by efficient block adjustments in all three scales. The final results were submitted in different formats like Inpho, PATB, ZI, BINGO and ASCII exterior orientation parameters.
+
+Project i contains 3 images
+
+
+
+
+
+
+
+
+Project 2:
+AT for Large Scale Urban Mapping
+
+<tr>
+    <td align="left" valign="middle" width="43%">No of Photo frames</td>
+    <td align="left" valign="middle">:</td>
+    <td align="left" valign="middle">1309</td>
+  </tr>
+  <tr>
+    <td align="left" valign="middle">Scale</td>
+    <td align="left" valign="middle">:</td>
+    <td align="left" valign="middle">1000</td>
+  </tr>
+  <tr>
+    <td align="left" valign="middle">Sensor</td>
+    <td align="left" valign="middle">:</td>
+    <td align="left" valign="middle">AirBorne</td>
+  </tr>
+  <tr>
+    <td align="left" valign="middle">Camera</td>
+    <td align="left" valign="middle">:</td>
+    <td align="left" valign="middle">DMC01-129</td>
+  </tr>
+  <tr>
+    <td align="left" valign="middle">Image fromat</td>
+    <td align="left" valign="middle">:</td>
+    <td align="left" valign="middle">RGB+IR</td>
+  </tr>
+
+  Project description :</strong> Triangulation of all images have been completed in single block using GPS/IMU and Ground control points. The quality of AT has been verified by the residuals of ground controls and tie points. Finally the block has been adjusted efficiently and  AT reports has been sent to client. The final results were imported in to stereo work station and ground control points have verified in stereo then  report also been sent to client. The results of triangulation have been submitted in different formats like Inpho, PATB, ZI and Bingo. Graphical reports like point connections (tie, ground control) and error ellipse were submitted.<br><br>
+Automatic tie point extraction method has been used after measuring the ground control points and with the help of GPS/INS. AAMGST's AT experts achieved the desired results by efficient block adjustment. The final results were submitted in different formats.    </p>  
+
+Project 2 contains 2 images
+
+
+
+
+
+
+
+
+
+
+
+
+
+Project 3:
+Triangulation for World View Stereo Pairs
+
+<tr>
+    <td align="left" valign="middle" width="53%">No of Satellite Image pairs</td>
+    <td align="left" valign="middle">:</td>
+    <td align="left" valign="middle">6</td>
+  </tr>
+  <tr>
+    <td align="left" valign="middle">Scale</td>
+    <td align="left" valign="middle">:</td>
+    <td align="left" valign="middle">5000</td>
+  </tr>
+  <tr>
+    <td align="left" valign="middle">Sensor</td>
+    <td align="left" valign="middle">:</td>
+    <td align="left" valign="middle">World View</td>
+  </tr>
+  <tr>
+    <td align="left" valign="middle">Image fromat</td>
+    <td align="left" valign="middle">:</td>
+    <td align="left" valign="middle">gray Scale</td>
+
+    <strong class="head">Project description :</strong> Triangulation of Satellite Imagery has been executed by using the Automatic point measurement after measuring the provided Ground Controls.<br>
+<br>
+
+The purpose of the project is to restitute the obstacles around the airport area. This has been ahieved by restituting the building block, towers, mosque and other constructions. Restitution of building blocks with elevation (height) points and Delimitation of roads, streets, wooded area, Agriculture, pasture, bare soil and Rivers, lakes in urban and rural areas. </p>
+ 
+ Project 3 contains 3 images
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Project 4:
+AT for World View Stereo pair
+
+<td align="left" valign="middle" width="65%">Set1_No of Satellite Image pairs</td>
+    <td align="left" valign="middle">:</td>
+    <td align="left" valign="middle">3</td>
+  </tr>
+  <tr>
+    <td align="left" valign="middle">Set2_No of Satellite Image pairs</td>
+    <td align="left" valign="middle">:</td>
+    <td align="left" valign="middle">5</td>
+  </tr>
+  <tr>
+    <td align="left" valign="middle">Scale</td>
+    <td align="left" valign="middle">:</td>
+    <td align="left" valign="middle">5000</td>
+  </tr>
+  <tr>
+    <td align="left" valign="middle">Sensor</td>
+    <td align="left" valign="middle">:</td>
+    <td align="left" valign="middle">World View</td>
+  </tr>
+  <tr>
+    <td align="left" valign="middle">Image fromat</td>
+    <td align="left" valign="middle">:</td>
+    <td align="left" valign="middle">RGB</td>
+  </tr>
+</table>
+
+<p><br>
+    <strong class="head">Project Description :</strong> Satellite Image pairs have been oriented by using client provided ground control points and achieved an accuracy of 0.3m. The projection used was UTM WGS84 (32S)<br>
+<br>
+
+Cartographical elements have been restituted as per the specifications at 1:5000 scale and final cartographic data has been delivered to client after quality check. Building lots, streets, infrastructures have been captured. Elevation points at 100x100 and contours at 2m have been captured. </p>
+
+Project 4 contains 2 images
+
+
+
+
+
+
+
+
+
+
+Project 5:
+Triangulation o IKONOS Imageries
+
+ <td align="left" valign="middle" width="53%">No of Satellite Image pairs</td>
+    <td align="left" valign="middle">:</td>
+    <td align="left" valign="middle">2</td>
+  </tr>
+  <tr>
+    <td align="left" valign="middle">Scale</td>
+    <td align="left" valign="middle">:</td>
+    <td align="left" valign="middle">5000</td>
+  </tr>
+  <tr>
+    <td align="left" valign="middle">Sensor</td>
+    <td align="left" valign="middle">:</td>
+    <td align="left" valign="middle">IKONOS</td>
+  </tr>
+  <tr>
+    <td align="left" valign="middle">Image fromat</td>
+    <td align="left" valign="middle">:</td>
+    <td align="left" valign="middle">RGB</td>
+  </tr>
+  
+  Project Description: <p>
+   The Satellite stereo pairs have been trimagulated by using the client provided ground control points.<br>
+Cartographical elements have been mapped as per the specification at 1:5000 scale.<br>
+Positional accuracy of IKONOS has been improved   and Imagery was orthorectifed using Restituted planimetric elements and spot heights.<br>
+Final data sent to client in two formats DGN and ESRI shape files.
+</p>
+
+project 5 contains 1 image
+
+
+
+
+
+
+
+
+
+
+
+Project 6:
+Triangulation of Imageries from different sensors
+
+<td align="left" valign="middle" width="32%">No. of Images</td>
+    <td align="left" valign="middle">:</td>
+    <td align="left" valign="middle">15(different location)</td>
+  </tr>
+  <tr>
+    <td align="left" valign="middle">Sensors</td>
+    <td align="left" valign="middle">:</td>
+    <td align="left" valign="middle">Ikonos, QuickBird, World view1.</td>
+  </tr>
+  <tr>
+    <td align="left" valign="middle">Image format</td>
+    <td align="left" valign="middle">:</td>
+    <td align="left" valign="middle">RGB</td>
+  </tr>
+
+  Project description: <p>
+   Satellite Imagery from different sensors have been georeferenced by using client provided ground control points. <br> 
+Then it was orthorectified using the Provided DEM. <br>
+Cartographical elements have been mapped (digitized) as per the specifications at different scales 1:10000, 1:30000.
+ ESRI shape files with attributes are generated. <br>
+Final Orthophotos and Vector data with attributes were submitted to client.
+</p>
+project 6 contains one image
+
+
+
+
+
+
+
+Project 7:
+Triangulation of RapidEye Imageries
+
+<tr>
+    <td align="left" valign="middle" width="32%">No. of Satellite Images</td>
+    <td align="left" valign="middle">:</td>
+    <td align="left" valign="middle">2</td>
+  </tr>
+  <tr>
+    <td align="left" valign="middle">Sensors</td>
+    <td align="left" valign="middle">:</td>
+    <td align="left" valign="middle">RapidEye</td>
+  </tr>
+  <tr>
+    <td align="left" valign="middle">Image format</td>
+    <td align="left" valign="middle">:</td>
+    <td align="left" valign="middle">RGB</td>
+  </tr>
+  
+  Project Description:
+  <p>
+   Individual NTF images with rpc information(GCS-Lat/Long). <br>
+<br>
+Six GCPS  information with their coordinates. <br>
+<br>
+5 band multispectral images have been created by merging the 5 individual NTF images from RapidEye by using layer stack option in Erdas software.<br>
+<br>
+Point shape file has been prepared with the provided ground control points.<br>
+<br>
+Using Multi Point Geometric Correction tool the 5 band Rapideye image has been geo corrected with respect to GCPs.<br>
+<br>
+Finally RapidEye image has been ortho rectified by using DSM data with Erdas tool Resample.
+
+Project 7 contains 3 images
