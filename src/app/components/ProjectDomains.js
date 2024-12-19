@@ -59,7 +59,7 @@ const projects = [
 
 const ProjectDomains = () => {
   return (
-    <div className="bg-gradient-to-br from-white via-gray-50 to-white min-h-screen py-16 px-4 sm:px-6 lg:px-8">
+    <div className="py-16 px-4 sm:px-6 lg:px-8">
       <div className="max-w-7xl mx-auto">
         <div className="text-center mb-16">
           <h1 className="text-4xl font-semibold text-gray-900 mb-12 tracking-tight">
