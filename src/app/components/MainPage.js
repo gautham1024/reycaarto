@@ -5,12 +5,13 @@ import AboutText from './AboutText';
 import Footer from './Footer';
 import Statistics from './Statistics';
 import Achievements from './Achievements';
+import AboutText2 from './AboutText2';
 
 const MainPage = () => {
   return (
     <div>
       <Navbar /> {/* Navbar component */}
-      <AboutText />
+      <AboutText2 />
 
       <div className="mt-8">
         <HomeCarousel /> {/* Carousel component below navbar */}
