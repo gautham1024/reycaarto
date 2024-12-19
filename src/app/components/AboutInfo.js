@@ -2,7 +2,7 @@ import React from 'react';
 
 const AboutInfo = () => {
   return (
-    <section className="py-16 px-8 md:px-20 bg-gradient-to-b from-blue-50 to-white">
+    <section className="py-16 px-8 md:px-20 ">
       <div className="max-w-7xl mx-auto">
         {/* Title Section with Fade-In Animation */}
         <div className="text-center mb-16 animate__animated animate__fadeIn animate__delay-1s">
