@@ -27,7 +27,7 @@ const AboutInfo = () => {
             <img
               src="/images/logo11.png"
               alt="Reycaarto Geomaatics"
-              className="w-72 h-72 rounded-full border-8 border-blue-300 transform hover:scale-110 transition-transform duration-500"
+              className="w-72 h-72 transform hover:scale-110 transition-transform duration-500"
             />
           </div>
         </div>
