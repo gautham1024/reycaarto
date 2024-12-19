@@ -57,7 +57,7 @@ const ContactUs = () => {
   };
 
   return (
-    <div className="flex flex-col items-center justify-center min-h-screen bg-gradient-to-r from-blue-50 via-gray-50 to-blue-100 px-6 py-12">
+    <div className="flex flex-col items-center justify-center min-h-screen px-6 py-12">
       {/* Contact Information */}
       <div className="w-full max-w-5xl bg-white shadow-lg rounded-lg overflow-hidden">
         <div className="p-8 bg-gradient-to-r from-gray-800 to-gray-900 text-white">
