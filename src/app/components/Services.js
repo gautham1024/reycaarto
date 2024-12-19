@@ -78,7 +78,7 @@ const servicesData = [
 
 const Services = () => {
   return (
-    <section className="bg-gray-50 py-12">
+    <section className="py-12">
       <div className="max-w-7xl mx-auto px-6 sm:px-12">
         <h2 className="text-3xl font-extrabold text-center text-gray-800 mb-10">
           Our Services
